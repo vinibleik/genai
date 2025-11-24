@@ -1,0 +1,196 @@
+https://learn.deeplearning.ai/
+Langchain
+    https://docs.langchain.com/oss/python/langchain/overview
+    https://docs.langchain.com/oss/python/langgraph/overview
+    https://awstip.com/langchain-in-chains-26-a-simple-pdf-reader-app-a19d0785d632
+    https://ai.plainenglish.io/langchain-in-chains-27-duckduckgo-tool-bb9d15fbf713
+    https://medium.com/@okanyenigun/langchain-in-chains-30-document-chatbots-3918bac29a26
+    https://blog.devops.dev/langchain-in-chains-34-cv-summarizer-614b33288758
+    https://towardsdev.com/langchain-in-chains-38-function-calling-b7e9de9ccab1
+    https://awstip.com/langchain-in-chains-39-custom-tools-ca5cda8bacde
+    https://pub.aimind.so/langchain-in-chains-41-advanced-rag-19f2a53f67fb
+    https://pub.aimind.so/langchain-in-chains-43-a-custom-rag-retrieval-tool-05a2c28156cd
+    https://pub.aimind.so/langchain-in-chains-46-step-back-prompting-1211a6705a33
+    https://blog.devgenius.io/langchain-in-chains-47-hyde-7f911879cf7e
+    https://pub.aimind.so/langchain-in-chains-48-prompt-decomposition-9ced98250861
+    https://blog.devgenius.io/langchain-in-chains-49-batch-processing-a36a3cb27d63
+    https://pub.aimind.so/langchain-in-chains-50-runnables-956656912882
+    https://python.plainenglish.io/langchain-in-chains-52-async-programming-e23ba9cba028
+    https://medium.com/@okanyenigun/built-with-langgraph-14-supervisor-agents-89c9b8d2c403
+    https://python.langchain.com/docs/tutorials/extraction/
+    https://python.langchain.com/docs/how_to/extraction_examples/
+    https://python.langchain.com/docs/how_to/extraction_long_text/
+    https://python.langchain.com/docs/versions/migrating_memory/long_term_memory_agent/
+    https://levelup.gitconnected.com/automating-the-search-for-optimal-langchain-agent-architectures-with-quality-diversity-algorithm-d25344a0f8e0
+    https://docs.langchain.com/oss/python/langchain/sql-agent
+    https://talibilat.medium.com/list/langgraph-ac66d567d14a
+    https://academy.langchain.com/courses/deep-agents-with-langgraph
+    https://medium.com/@martin.hodges/how-to-create-an-agentic-ai-application-using-langgraph-f384128fce90
+    https://github.com/langchain-ai/deep-agents-from-scratch
+    https://blog.langchain.com/building-langgraph/
+    https://towardsdev.com/built-with-langgraph-29-reflection-reflexion-10cc1cf96f35
+https://medium.com/@levi_stringer/building-stateful-conversations-with-postgres-and-llms-e6bb2a5ff73e
+https://www.marktechpost.com/2025/09/02/how-to-build-an-advanced-ai-agent-with-summarized-short-term-and-vector-based-long-term-memory/?amp
+https://towardsdatascience.com/agentic-ai-103-building-multi-agent-teams/
+https://www.anthropic.com/engineering
+https://realpython.com/python-mcp-client/
+https://levelup.gitconnected.com/building-the-14-key-pillars-of-agentic-ai-229e50f65986
+https://aws.plainenglish.io/designing-a-scalable-image-labeling-workflow-with-aws-s3-sqs-lambda-rekognition-and-bedrock-16882be23922
+https://levelup.gitconnected.com/comparing-agent-frameworks-pydanticai-langchain-1-0-and-google-adk-4d2d46d927f0
+https://pub.towardsai.net/production-ready-ai-agents-8-patterns-that-actually-work-with-real-examples-from-bank-of-america-12b7af5a9542
+https://pub.towardsai.net/building-an-ai-agent-with-model-context-protocol-mcp-a-complete-guide-37b8f6cd7b2b
+https://pub.towardsai.net/how-to-build-a-custom-mcp-server-to-read-local-files-with-claude-desktop-challenges-solutions-1750896868ea
+https://levelup.gitconnected.com/bedrock-agentcore-part2-memory-raw-database-vector-store-some-eventbridge-ish-logics-594aad0389c0
+https://aws.plainenglish.io/develop-aws-ml-workloads-locally-with-localstack-and-sam-24bdc0de81aa
+https://aws.plainenglish.io/mcp-vs-strands-vs-rag-vs-a2a-vs-bedrock-vs-agentcore-vs-q-aws-ai-agents-compared-2025-788089e7ed33
+https://levelup.gitconnected.com/inside-llm-guard-the-ultimate-toolkit-for-secure-language-ai-0539f4375c87
+https://pub.towardsai.net/chunking-strategies-in-rag-systems-33f20cc7e5ee
+https://pub.towardsai.net/building-a-multi-ai-agents-application-using-the-amazon-gen-ai-dream-team-bedrock-strands-b47d0afcc710
+https://pub.towardsai.net/the-builders-notes-how-we-built-self-healing-ai-infrastructure-without-burning-2m-4015f55cc9ae
+https://levelup.gitconnected.com/building-a-complex-production-ready-rag-system-with-langchain-langgraph-and-ragas-36a66d663c5c
+https://levelup.gitconnected.com/building-long-term-memory-in-agentic-ai-2941b0cca3bf
+https://www.pinecone.io/learn/vector-database/
+https://pub.towardsai.net/why-does-your-llm-application-hallucinate-e8280f79d005
+https://towardsdatascience.com/how-to-evaluate-retrieval-quality-in-rag-pipelines-part-3-dcgk-and-ndcgk/
+https://pub.towardsai.net/solving-llms-creativity-paradox-agi-s-next-frontier-cbcfb3267672
+https://levelup.gitconnected.com/comparing-the-performance-of-langchain-based-systems-in-python-and-go-e22df26bc36a#d398
+https://towardsdatascience.com/rag-explained-reranking-for-better-answers/
+https://towardsaws.com/building-a-serverless-document-extraction-service-with-bedrock-35433183e036
+https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-in-large-scale-ai-systems-f4915b5615ce
+https://github.com/langchain-ai/deep_research_from_scratch
+https://towardsdatascience.com/langgraph-101-lets-build-a-deep-research-agent/
+https://towardsdatascience.com/how-to-build-effective-agentic-systems-with-langgraph/
+https://pub.towardsai.net/document-summarization-qa-in-rag-without-frameworks-pymupdf-chromadb-5446c6373579
+https://ai.gopubby.com/how-to-build-an-advanced-agentic-e-commerce-whatsapp-bot-with-hyperstack-ai-studio-b880dcb07fd1
+https://medium.com/@zorratow/building-an-end-to-end-aws-mlops-pipeline-e7452efb78c2
+https://www.marktechpost.com/2025/09/12/how-to-build-a-multilingual-ocr-ai-agent-in-python-with-easyocr-and-opencv/
+https://levelup.gitconnected.com/building-the-entire-rag-ecosystem-and-optimizing-every-component-8f23349b96a4
+https://www.marktechpost.com/2025/08/07/a-coding-implementation-to-advanced-langgraph-multi-agent-research-pipeline-for-automated-insights-generation/?amp
+https://www.marktechpost.com/2025/08/04/7-essential-layers-for-building-real-world-ai-agents-in-2025-a-comprehensive-framework/?amp
+https://www.marktechpost.com/2025/08/09/9-agentic-ai-workflow-patterns-transforming-ai-agents-in-2025/
+https://www.marktechpost.com/2025/08/06/a-coding-implementation-to-build-a-self-adaptive-goal-oriented-ai-agent-using-google-gemini-and-the-sage-framework/
+https://www.marktechpost.com/2025/08/02/a-coding-guide-to-build-intelligent-multi-agent-systems-with-the-peer-pattern/
+https://www.geeksforgeeks.org/mini-max-algorithm-in-artificial-intelligence/
+https://ai.plainenglish.io/building-agentic-rag-with-langgraph-mastering-adaptive-rag-for-production-c2c4578c836a
+https://levelup.gitconnected.com/9-production-level-guided-llm-rag-agents-projects-9efd911fd344
+https://towardsdatascience.com/boost-your-llm-outputdesign-smarter-prompts-real-tricks-from-an-ai-engineers-toolbox/
+https://www.marktechpost.com/2025/05/31/a-coding-guide-to-building-a-scalable-multi-agent-communication-systems-using-agent-communication-protocol-acp/
+https://heeki.medium.com/building-an-mcp-server-as-an-api-developer-cfc162d06a83
+https://www.neverstopbuilding.com/blog/minimax
+https://awstip.com/aws-s3-vectors-explained-the-ultimate-guide-to-90-cheaper-genai-rag-storage-a6f162bf1aa2
+https://towardsdatascience.com/hitchhikers-guide-to-rag-from-tiny-files-to-tolstoy-with-openais-api-and-langchain/
+https://machinelearningmastery.com/understanding-rag-part-i-why-its-needed/
+https://machinelearningmastery.com/understanding-rag-part-ii-how-classic-rag-works/
+https://machinelearningmastery.com/understanding-rag-iii-fusion-retrieval-and-reranking/
+https://www.kdnuggets.com/32-mcp-servers-you-need-to-check-out-now
+https://towardsdatascience.com/cognitive-prompting-in-llms-6234f6ab9a4b
+https://huggingface.co/blog/getting-started-with-embeddings
+https://towardsdatascience.com/leveraging-smaller-llms-for-enhanced-retrieval-augmented-generation-rag-bc320e71223d
+https://thenewstack.io/ai-agents-a-comprehensive-introduction-for-developers/
+https://www.marktechpost.com/2025/07/07/implementing-a-tool-enabled-multi-agent-workflow-with-python-openai-api-and-primisai-nexus/
+https://www.analyticsvidhya.com/blog/2024/10/agentic-design-patterns/
+https://blog.serverlessadvocate.com/automating-tasks-using-amazon-bedrock-agents-and-ai-4b6fb8856589
+https://www.infoq.com/articles/agentic-ai-architecture-framework/
+https://towardsdatascience.com/ai-agent-workflows-a-complete-guide-on-whether-to-build-with-langgraph-or-langchain-117025509fa0
+https://towardsdatascience.com/transforming-data-quality-automating-sql-testing-for-faster-smarter-analytics-6da431493570
+https://www.lennysnewsletter.com/p/five-proven-prompt-engineering-techniques
+https://dev.to/timescale/pgai-vectorizer-automate-ai-embeddings-with-one-sql-command-in-postgresql-11kp
+https://towardsdatascience.com/the-ultimate-guide-to-rags-each-component-dissected-3cd51c4c0212
+https://pub.towardsai.net/vectordb-internals-for-engineers-what-you-need-to-know-eb255c75bab7
+https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/
+https://ai.gopubby.com/stream-changes-from-a-postgresql-database-to-a-vector-store-83df7adc0bfa
+https://vectorize.io/multimodal-rag-patterns/
+https://dev.to/guybuildingai/top-5-trending-open-source-llm-tools-frameworks-you-must-know-about-1fk7
+https://www.forbes.com/sites/lanceeliot/2024/10/29/the-echo-prompting-technique-for-generative-ai-does-double-duty-and-pays-off-with-better-answers/
+https://towardsdatascience.com/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759
+https://towardsdatascience.com/the-quest-for-production-quality-graph-rag-easy-to-start-hard-to-finish-46ca404cee3d
+https://www.marktechpost.com/2024/10/29/chunkrag-an-ai-framework-to-enhance-rag-systems-by-evaluating-and-filtering-retrieved-information-at-the-chunk-level/
+https://towardsdatascience.com/choosing-and-implementing-hugging-face-models-026d71426fbe
+https://www.marktechpost.com/2024/11/02/this-ai-paper-explores-new-ways-to-utilize-and-optimize-multimodal-rag-system-for-industrial-applications/
+https://www.marktechpost.com/2024/10/28/longrag-a-robust-rag-framework-for-long-context-question-answering/
+https://www.kdnuggets.com/optimizing-rag-with-embedding-tuning
+https://magazine.sebastianraschka.com/p/understanding-multimodal-llms
+https://towardsdatascience.com/graphrag-in-action-from-commercial-contracts-to-a-dynamic-q-a-agent-7d4a6caa6eb5
+https://www.llamaindex.ai/framework
+https://towardsdatascience.com/multimodal-ai-search-for-business-applications-65356d011009
+https://thenewstack.io/shrinking-embeddings-for-speed-and-accuracy-in-ai-models/
+https://towardsdatascience.com/least-squares-regression-explained-a-visual-guide-with-code-examples-for-beginners-2e5ad011eae4
+https://levelup.gitconnected.com/lets-build-our-own-gpt-model-from-scratch-with-pytorch-236a65a1fb54
+https://towardsdatascience.com/ai-agents-the-intersection-of-tool-calling-and-reasoning-in-generative-ai-ff268eece443
+https://towardsdatascience.com/what-makes-a-true-ai-agent-rethinking-the-pursuit-of-autonomy-547ab54f4995
+https://www.productcompass.pm/p/step-by-step-introduction-to-ai-agents
+https://www.marktechpost.com/2024/11/10/ragcache-optimizing-retrieval-augmented-generation-with-dynamic-caching/
+https://www.llamaindex.ai/blog/building-blocks-of-llm-report-generation-beyond-basic-rag
+https://towardsdatascience.com/beyond-rag-precision-filtering-in-a-semantic-world-333d332c2d45
+https://www.marktechpost.com/2024/11/16/top-artificial-intelligence-books-to-read-in-2024/
+https://towardsdev.com/rag-example-building-a-kubernetes-knowledge-base-q-a-with-langchain-redis-and-llama-cpp-3fec075cbcd2
+https://towardsdatascience.com/build-your-personal-assistant-with-agents-and-tools-048637ac308e
+https://towardsdatascience.com/from-retrieval-to-intelligence-exploring-rag-agent-rag-and-evaluation-with-trulens-3c518af836ce
+https://github.com/braintrustdata/autoevals?tab=readme-ov-file
+https://docs.ragas.io/en/latest/getstarted/evals/
+https://docs.anthropic.com/en/docs/welcome
+https://www.anthropic.com/news/contextual-retrieval
+https://medium.com/mongodb/what-are-ai-agents-from-virtual-assistants-to-intelligent-decision-makers-817b8b205f33
+https://www.anthropic.com/research/building-effective-agents
+https://www.kdnuggets.com/multimodal-rag-implementation-hugging-face
+https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part
+https://towardsdatascience.com/how-to-build-a-graph-rag-app-b323fc33ba06
+https://thenewstack.io/vector-databases-the-foundation-of-ai-agent-innovation/
+https://ai.gopubby.com/want-to-build-ai-agents-c83ab4535411
+https://www.dailydoseofds.com/16-techniques-to-supercharge-and-build-real-world-rag-systems-part-1/
+https://medium.com/towards-data-science/injecting-domain-expertise-into-your-ai-system-792febff48f0
+https://medium.com/building-the-open-data-stack/behind-ai-agents-the-infrastructure-that-supports-autonomy-4c4657d7d720
+https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/
+https://machinelearningmastery.com/prompt-engineering-patterns-successful-rag-implementations/
+https://levelup.gitconnected.com/testing-18-rag-techniques-to-find-the-best-094d166af27f
+https://medium.com/data-science-collective/the-ai-engineers-playbook-mastering-vector-search-management-part-2-7a74b8038bc5
+https://www.anthropic.com/news/model-context-protocol
+https://modelcontextprotocol.io/introduction#tutorials
+https://towardsdatascience.com/why-generative-ai-apps-quality-often-sucks-and-what-to-do-about-it-f84407f263c3
+https://towardsdatascience.com/perform-outlier-detection-more-effectively-using-subsets-of-features-d984bde99981
+https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxiGkglRO7ZeSJPZn1tImu3sVmiGJM3fCk
+https://pub.towardsai.net/rag-in-practice-exploring-versioning-observability-and-evaluation-in-production-systems-85dc28e1d9a8
+https://aws.plainenglish.io/ai-resume-ranking-system-3f161df347dc
+https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxxoSKT6I5Zn8vH6t0ZJDKR75PK8YqYaJT
+https://towardsdatascience.com/a-developers-guide-to-building-scalable-ai-workflows-vs-agents/
+https://pub.towardsai.net/i-used-mcp-for-3-months-everything-you-need-to-know-24-best-servers-0c02f3915867
+https://aws.plainenglish.io/ai-devops-agent-from-prompts-to-autonomous-infrastructure-creation-9b0c6562cdcb
+https://aws.plainenglish.io/using-mcp-servers-with-amazon-q-cli-db6db8a2f1fb
+https://ai.gopubby.com/the-hidden-costs-of-langchain-crewai-pydanticai-and-others-why-popular-ai-frameworks-are-failing-77b9a40c16cf
+https://research.trychroma.com/context-rot
+https://research.trychroma.com/evaluating-chunking
+https://blog.langchain.com/open-deep-research/
+https://pub.towardsai.net/designing-a-scalable-multi-agent-ai-system-for-operational-intelligence-ab6c4a7f331a
+https://www.marktechpost.com/2025/07/19/the-definitive-guide-to-ai-agents-architectures-frameworks-and-real-world-applications-2025/
+https://towardsdatascience.com/the-future-of-ai-agent-communication-with-acp/
+https://www.marktechpost.com/2025/07/19/building-a-multi-agent-ai-research-team-with-langgraph-and-gemini-for-automated-reporting/
+https://devblogs.microsoft.com/semantic-kernel/guest-blog-building-multi-agent-solutions-with-semantic-kernel-and-a2a-protocol/
+https://ai.gopubby.com/feeling-behind-in-ai-build-your-research-assistant-with-python-llms-ca07275bd44d
+https://levelup.gitconnected.com/optimizing-langchain-ai-agents-with-contextual-engineering-0914d84601f3
+https://levelup.gitconnected.com/building-an-advanced-agentic-rag-pipeline-that-mimics-a-human-thought-process-687e1fd79f61
+https://towardsdatascience.com/rag-explained-understanding-embeddings-similarity-and-retrieval/
+https://www.marktechpost.com/2025/09/10/building-advanced-mcp-model-context-protocol-agents-with-multi-agent-coordination-context-awareness-and-gemini-integration/
+https://packagemain.tech/p/how-to-implement-the-outbox-pattern-in-golang
+https://pub.towardsai.net/evaluating-large-language-models-what-why-and-how-for-chatbots-e807ed65a51e
+https://blog.stackademic.com/lstm-explained-simply-4804bc2f7480
+https://www.copilotkit.ai/blog/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph
+https://levelup.gitconnected.com/building-a-multi-layered-agentic-guardrail-pipeline-to-reduce-hallucinations-and-mitigate-risk-a8f73de24ea7
+https://machinelearningmastery.com/the-complete-guide-to-vector-databases-for-machine-learning/
+https://github.com/pguso/ai-agents-from-scratch/tree/main
+https://www.marktechpost.com/2025/08/31/understanding-oauth-2-1-for-mcp-model-context-protocol-servers-discovery-authorization-and-access-phases/
+https://medium.com/mongodb/why-multi-agent-systems-need-memory-engineering-153a81f8d5be
+https://www.marktechpost.com/2025/08/31/what-is-ai-agent-observability-top-7-best-practices-for-reliable-ai/?amp
+https://www.anthropic.com/engineering/writing-tools-for-agents
+https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+https://github.com/anthropics/anthropic-quickstarts/tree/main
+https://www.youtube.com/watch?v=y7SE8IXfeVs
+https://github.com/anthropics/courses
+https://github.com/anthropics/anthropic-cookbook
+https://www.anthropic.com/engineering/building-effective-agents
+https://simonwillison.net/2025/May/25/claude-4-system-prompt/
+https://github.com/microsoft/ai-agents-for-beginners
+https://dev.to/aws/building-production-ready-ai-agents-a-multi-framework-journey-with-amazon-bedrock-agentcore-p32
+https://towardsdatascience.com/multi-agent-sql-assistant-part-2-building-a-rag-manager/
+https://medium.com/@ryo.arym/how-to-build-a-rag-system-with-amazon-bedrock-8c6424b27d27
+https://pub.towardsai.net/agentic-ai-project-build-multi-agent-text2sql-chatbot-for-ecommerce-database-c8d0e294ec94
+https://pub.towardsai.net/building-ai-agents-that-actually-remember-a-deep-dive-into-memory-architectures-db79a15dba70
