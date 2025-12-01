@@ -1,0 +1,71 @@
+[project]
+name = "document-chat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncpg>=0.31.0",
+    "boto3>=1.41.2",
+    "fastapi[standard]>=0.122.0",
+    "pydantic-ai-slim[anthropic,bedrock]>=1.22.0",
+    "pydantic-settings>=2.12.0",
+    "python-dotenv>=1.2.1",
+    "rich>=14.2.0",
+    "sqlmodel>=0.0.27",
+    "typer>=0.20.0",
+]
+
+[dependency-groups]
+dev = [
+    "alembic>=1.17.2",
+    "boto3-stubs[bedrock-runtime,textract]>=1.41.2",
+    "psycopg[binary]>=3.2.13",
+]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 80
+indent-width = 4
+output-format = "grouped"
+show-fixes = true
+respect-gitignore = true
+fix = true
+include = [
+    "src/**/*.py",
+    "pyproject.toml",
+    "tests/**/*.py",
+    "migrations/**/*.py"
+]
+
+[tool.ruff.lint]
+ignore = ["E501"]
+# exclude = ["local.py"]
+extend-select = [
+    "E",
+    "W",
+    "ASYNC",
+    "S",
+    "B",
+    "A",
+    "C4",
+    "DTZ",
+    "LOG",
+    "G",
+    "PIE",
+    "PYI",
+    "SIM",
+    "PTH",
+    "I",
+    "C90",
+    "N",
+    "UP"
+]
+
+# [tool.ruff.lint.per-file-ignores]
+# "tests/**/*" = ["E501", "DTZ", "S106"]
+
+[tool.ruff.format]
+docstring-code-format = true
+indent-style = "space"
+quote-style = "double"

@@ -1,0 +1,5 @@
+.env
+main.py
+t.py
+settings.py
+__pycache__
